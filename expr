@@ -1,0 +1,9 @@
+src portrange 50000-50400
+ether src 00:0c:29:50:a9:fc
+src host 192.168.0.100
+dst host 192.168.0.10
+tcp
+
+protocal parse
+顯示細節
+顏色配置
